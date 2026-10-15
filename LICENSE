@@ -1,0 +1,28 @@
+Risk Terminal data
+==================
+
+Unless a release's own LICENSE file says otherwise for a specific table, the
+data and documentation in this repository are licensed under the Creative
+Commons Attribution 4.0 International licence (CC BY 4.0).
+
+You may share and adapt the material, including commercially, provided you give
+appropriate credit, link to the licence, and indicate whether changes were made.
+Attribution should name the release id and the model versions listed in that
+release's README.md.
+
+Full text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Exceptions, stated per table in each release's LICENSE file:
+
+- Office-holder facts sourced from Wikidata are released under CC0 1.0
+  Universal, matching their upstream terms:
+  https://creativecommons.org/publicdomain/zero/1.0/
+- Portrait columns are a URL, a credit and a per-row image licence. No image
+  file is redistributed. Read each row's own licence before reusing a portrait.
+
+Third-party editorial text (headlines, article text, feed summaries) is not
+licensed by this repository.
+
+No warranty: the data are provided as-is, without warranty of any kind. Values
+are readings of observed conditions at each row's own timestamp. They are not
+predictions and not advice.

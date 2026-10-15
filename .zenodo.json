@@ -1,0 +1,31 @@
+{
+  "title": "Risk Terminal country risk readings — rt-data-2026-09",
+  "upload_type": "dataset",
+  "version": "2026.09",
+  "creators": [
+    {"name": "Batabyal, Krishna"}
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "political risk",
+    "geopolitics",
+    "country risk",
+    "conflict",
+    "panel data",
+    "open data"
+  ],
+  "description": "<p>Release rt-data-2026-09 of the Risk Terminal open data: daily country, regional and sub-national risk readings for 195 scored countries (201 tracked) and 9 regions, from 2026-04-18. Every row carries the model version and the SHA-256 parameter fingerprint of the engine that produced it, so readings from the same apparatus can be identified without publishing the apparatus.</p><p>Readings describe current conditions at each row's timestamp. This is not a prediction product.</p><p>The study design is pre-registered: DOI 10.17605/OSF.IO/2SVZF. Each release folder includes a manifest with SHA-256 hashes, a data dictionary, a changelog and a standard-library verification script.</p>",
+  "related_identifiers": [
+    {
+      "identifier": "10.17605/OSF.IO/2SVZF",
+      "relation": "isDocumentedBy",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://risk-terminal.com/data",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite the release you used (release id and DOI) and state the model versions listed in its README."
+type: dataset
+title: "Risk Terminal country risk readings"
+version: "2026.09"
+date-released: "2026-09-08"
+authors:
+  - family-names: Batabyal
+    given-names: Krishna
+license: CC-BY-4.0
+repository: "https://github.com/krishnabatabyal/risk-terminal-data"
+url: "https://risk-terminal.com/data"
+abstract: >-
+  Daily country, regional and sub-national risk readings for 195 scored
+  countries (201 tracked) and 9 regions, with the model version and parameter
+  fingerprint stamped on every row. Readings describe current conditions at
+  each row's timestamp; they are not predictions. Study design pre-registered
+  at https://doi.org/10.17605/OSF.IO/2SVZF.
+keywords:
+  - political risk
+  - geopolitics
+  - country risk
+  - conflict
+  - panel data
+  - open data
