@@ -19,7 +19,7 @@ DOI.
 
 | release | status | folder |
 |---|---|---|
-| `rt-data-2026-09` | in preparation | `releases/rt-data-2026-09/` |
+| `rt-data-2026-09` | released | `releases/rt-data-2026-09/` |
 
 Each release folder carries its own `README.md`, `LICENSE`, `MANIFEST.json`
 (SHA-256, byte size, row count and column list for every file),

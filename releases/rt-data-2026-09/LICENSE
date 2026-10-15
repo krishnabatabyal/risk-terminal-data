@@ -1,0 +1,65 @@
+Risk Terminal data — rt-data-2026-09
+================================
+
+Licence terms, per file. Free for academic use.
+
+| file | licence |
+|---|---|
+| `country_scores` | CC BY 4.0 |
+| `country_scores_daily` | CC BY 4.0 |
+| `region_scores` | CC BY 4.0 |
+| `subnational_scores` | CC BY 4.0 |
+| `measurement_regime_daily` | CC BY 4.0 |
+| `score_explainers` | CC BY 4.0 |
+| `score_explainer_history` | CC BY 4.0 |
+| `people` | CC0 1.0 (Wikidata facts); per-row licence for portrait URLs |
+| `people_positions` | CC0 1.0 (Wikidata facts); per-row licence for portrait URLs |
+| `people_changes` | CC0 1.0 (Wikidata facts); per-row licence for portrait URLs |
+| `people_coverage` | CC BY 4.0 |
+| `people_chambers` | CC0 1.0 (Wikidata facts); per-row licence for portrait URLs |
+| `leaders` | CC BY 4.0 (ours) with open-source facts attributed per row |
+| `leadership_events` | CC BY 4.0 (ours) with open-source facts attributed per row |
+| `elections` | CC BY 4.0 (ours) with open-source facts attributed per row |
+| `legislation` | CC BY 4.0 (ours) with open-source facts attributed per row |
+| `backtest_events` | CC BY 4.0 |
+| `events_metadata` | CC BY 4.0 |
+
+Our tables — CC BY 4.0
+-----------------------------
+Creative Commons Attribution 4.0 International. You may share and adapt the
+data, including commercially, provided you give appropriate credit, link to the
+licence, and indicate whether changes were made. Full text:
+https://creativecommons.org/licenses/by/4.0/
+
+Attribution should name the release id and the model versions listed in
+README.md, so a reader can obtain the same rows.
+
+Knowledge-base facts — CC0 1.0 (Wikidata facts); per-row licence for portrait URLs
+--------------------------------------
+Biographical and office-holding facts sourced from a public collaborative
+knowledge base are released under CC0 1.0 Universal, matching their upstream
+terms. Full text: https://creativecommons.org/publicdomain/zero/1.0/
+
+Portrait columns are a URL, a credit string and a per-row image licence. **No
+image file is redistributed in this release.** Before reusing a portrait, read
+that row's own licence at the source; it is frequently more restrictive than the
+facts beside it.
+
+Documentation — CC BY 4.0
+--------------------------------
+README.md, DATA_DICTIONARY.md and CHANGELOG.md are CC BY 4.0.
+
+Not covered by this licence
+---------------------------
+Model weights, prompts and lexicons are not published. Their SHA-256
+fingerprints are, and they appear on every row they produced.
+
+Third-party editorial text — headlines and feed-written summaries — is not in
+this release and is not licensed by it. `events_metadata` carries `source_url`;
+follow it to the publisher and read their terms.
+
+No warranty
+-----------
+The data is provided as-is, without warranty of any kind. Values are readings of
+observed conditions at each row's own timestamp. They are not forecasts, not
+advice, and not a statement about what will happen.
